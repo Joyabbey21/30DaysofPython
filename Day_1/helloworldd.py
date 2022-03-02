@@ -1,0 +1,22 @@
+print(3 + 4)
+print (3 - 4)
+print (3 * 4)
+print(3 % 4)
+print(3 / 4)
+print(3 ** 4)
+print(3 // 4)
+
+print('Joy')
+print('Abiodun')
+print('Nigeria')
+print('I am enjoying 30 days of python')
+
+print(type(10))
+print(type(9.8))
+print(type(4 - 4j))
+print(type(['Joy', 'Python', 'Nigeria']))
+print(type('Joy'))
+print(type('Abiodun'))
+print(type('Nigeria'))
+
+print((((8 - 3)**2) + ((10 - 2)**2)) ** 0.5)
